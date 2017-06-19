@@ -14,4 +14,4 @@ if(answer === number){
    
    
    
- document.getElementById('choice').textComent = message;
+ document.getElementById('choice').textContent = message;
